@@ -8,8 +8,6 @@
 # These are reads that are within specific edges of duplicated/triplicated blocks
 # The script then assembles each of the junction files using Price to generate a series of .fa files
 
-# Interleaved files will be transfered into a separate folder
-
 # Usage programname.py
 
 import os, sys, math
