@@ -6,12 +6,9 @@ import sys
 ##
 ## Han Tan, University of Maine, 2017
 ##
-## This script is used to generate bin files for de novo PRICE assembly
-## for breakpoint junctions as a result of chromothripsis
-## from SMuFin's somatic_large_SVs output files
-##
-## PRICE assembly will typically result in a larger junction sequence to
-## aid in the design of PCR amplicons
+## This script is used to generate bin files from
+## SMuFin's somatic_large_SVs output files to run
+## the batch-specific-junction-bin-search.py 
 ##
 ## USAGE: junction-bins-fromSMuFin.py somatic_large_SVs_$file output.txt
 ##
