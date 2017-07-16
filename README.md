@@ -1,1 +1,1 @@
-# SMuFinForChromothripsis
+# Detection of Chromothripsis in Plants
